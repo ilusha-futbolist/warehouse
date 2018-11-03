@@ -10,6 +10,7 @@ namespace exsisase_2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("artem-ne futbolist");
         }
     }
 }
