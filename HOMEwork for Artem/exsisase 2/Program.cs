@@ -10,7 +10,18 @@ namespace exsisase_2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("artem-ne futbolist");
+
+            int a;
+            int b = 1;
+            Console.WriteLine("Введите число");
+            a = Console.Read();
+
+            for (int i = a; i > 1; i--)
+                b = b * i;
+            Console.WriteLine("Факториал  = " + b);
+
+
+            Console.ReadLine();
         }
     }
 }
