@@ -14,8 +14,8 @@ namespace exsisase_2
             int a;
             int b = 1;
             Console.WriteLine("Введите число");
-            a = Console.Read();
-
+            a = int.Parse(Console.ReadLine());
+            Console.WriteLine(a);
             for (int i = a; i > 1; i--)
                 b = b * i;
             Console.WriteLine("Факториал  = " + b);

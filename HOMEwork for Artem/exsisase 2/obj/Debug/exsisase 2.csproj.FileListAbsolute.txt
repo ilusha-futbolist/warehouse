@@ -1,0 +1,7 @@
+D:\Ilya\warehouse\HOMEwork for Artem\exsisase 2\bin\Debug\exsisase 2.exe.config
+D:\Ilya\warehouse\HOMEwork for Artem\exsisase 2\bin\Debug\exsisase 2.exe
+D:\Ilya\warehouse\HOMEwork for Artem\exsisase 2\bin\Debug\exsisase 2.pdb
+D:\Ilya\warehouse\HOMEwork for Artem\exsisase 2\obj\Debug\exsisase 2.csprojAssemblyReference.cache
+D:\Ilya\warehouse\HOMEwork for Artem\exsisase 2\obj\Debug\exsisase 2.csproj.CoreCompileInputs.cache
+D:\Ilya\warehouse\HOMEwork for Artem\exsisase 2\obj\Debug\exsisase 2.exe
+D:\Ilya\warehouse\HOMEwork for Artem\exsisase 2\obj\Debug\exsisase 2.pdb

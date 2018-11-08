@@ -10,10 +10,15 @@ namespace HOMEwork_for_Artem
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
-            double a = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("{0} в квадрате {1}", a, Math.Pow(a, 2));
+            int a = Convert.ToInt32(Console.ReadLine());
+            for (int i = 0; i < a; i++)
+            {
+
+                Console.WriteLine($"{i} в квадрате {Math.Pow(i, 2)}");
+            }
+            Console.WriteLine(UInt16.MaxValue);
             Console.ReadLine();
+
         }
     }
 }
