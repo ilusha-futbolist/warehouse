@@ -1,0 +1,7 @@
+D:\Ilya\warehouse\HOMEwork for Artem\наибольший делитель\bin\Debug\наибольший делитель.exe.config
+D:\Ilya\warehouse\HOMEwork for Artem\наибольший делитель\bin\Debug\наибольший делитель.exe
+D:\Ilya\warehouse\HOMEwork for Artem\наибольший делитель\bin\Debug\наибольший делитель.pdb
+D:\Ilya\warehouse\HOMEwork for Artem\наибольший делитель\obj\Debug\наибольший делитель.csprojAssemblyReference.cache
+D:\Ilya\warehouse\HOMEwork for Artem\наибольший делитель\obj\Debug\наибольший делитель.csproj.CoreCompileInputs.cache
+D:\Ilya\warehouse\HOMEwork for Artem\наибольший делитель\obj\Debug\наибольший делитель.exe
+D:\Ilya\warehouse\HOMEwork for Artem\наибольший делитель\obj\Debug\наибольший делитель.pdb

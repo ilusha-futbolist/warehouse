@@ -1,0 +1,7 @@
+D:\Ilya\warehouse\HOMEwork for Artem\HOMEwork for Artem\bin\Debug\HOMEwork for Artem.exe.config
+D:\Ilya\warehouse\HOMEwork for Artem\HOMEwork for Artem\bin\Debug\HOMEwork for Artem.exe
+D:\Ilya\warehouse\HOMEwork for Artem\HOMEwork for Artem\bin\Debug\HOMEwork for Artem.pdb
+D:\Ilya\warehouse\HOMEwork for Artem\HOMEwork for Artem\obj\Debug\HOMEwork for Artem.csprojAssemblyReference.cache
+D:\Ilya\warehouse\HOMEwork for Artem\HOMEwork for Artem\obj\Debug\HOMEwork for Artem.csproj.CoreCompileInputs.cache
+D:\Ilya\warehouse\HOMEwork for Artem\HOMEwork for Artem\obj\Debug\HOMEwork for Artem.exe
+D:\Ilya\warehouse\HOMEwork for Artem\HOMEwork for Artem\obj\Debug\HOMEwork for Artem.pdb
