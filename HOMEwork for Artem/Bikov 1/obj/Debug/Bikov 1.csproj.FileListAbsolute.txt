@@ -1,0 +1,7 @@
+D:\Ilya\warehouse\HOMEwork for Artem\Bikov 1\bin\Debug\Bikov 1.exe.config
+D:\Ilya\warehouse\HOMEwork for Artem\Bikov 1\bin\Debug\Bikov 1.exe
+D:\Ilya\warehouse\HOMEwork for Artem\Bikov 1\bin\Debug\Bikov 1.pdb
+D:\Ilya\warehouse\HOMEwork for Artem\Bikov 1\obj\Debug\Bikov 1.csprojAssemblyReference.cache
+D:\Ilya\warehouse\HOMEwork for Artem\Bikov 1\obj\Debug\Bikov 1.csproj.CoreCompileInputs.cache
+D:\Ilya\warehouse\HOMEwork for Artem\Bikov 1\obj\Debug\Bikov 1.exe
+D:\Ilya\warehouse\HOMEwork for Artem\Bikov 1\obj\Debug\Bikov 1.pdb

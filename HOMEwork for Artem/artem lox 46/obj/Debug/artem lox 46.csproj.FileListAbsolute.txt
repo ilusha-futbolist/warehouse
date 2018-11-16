@@ -1,0 +1,7 @@
+D:\Ilya\warehouse\HOMEwork for Artem\artem lox 46\obj\Debug\artem lox 46.csprojAssemblyReference.cache
+D:\Ilya\warehouse\HOMEwork for Artem\artem lox 46\obj\Debug\artem lox 46.csproj.CoreCompileInputs.cache
+D:\Ilya\warehouse\HOMEwork for Artem\artem lox 46\bin\Debug\artem lox 46.exe.config
+D:\Ilya\warehouse\HOMEwork for Artem\artem lox 46\bin\Debug\artem lox 46.exe
+D:\Ilya\warehouse\HOMEwork for Artem\artem lox 46\bin\Debug\artem lox 46.pdb
+D:\Ilya\warehouse\HOMEwork for Artem\artem lox 46\obj\Debug\artem lox 46.exe
+D:\Ilya\warehouse\HOMEwork for Artem\artem lox 46\obj\Debug\artem lox 46.pdb

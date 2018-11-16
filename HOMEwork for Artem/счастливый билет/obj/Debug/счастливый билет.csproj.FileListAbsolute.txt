@@ -4,3 +4,4 @@ D:\Ilya\warehouse\HOMEwork for Artem\счастливый билет\bin\Debug\�
 D:\Ilya\warehouse\HOMEwork for Artem\счастливый билет\obj\Debug\счастливый билет.csproj.CoreCompileInputs.cache
 D:\Ilya\warehouse\HOMEwork for Artem\счастливый билет\obj\Debug\счастливый билет.exe
 D:\Ilya\warehouse\HOMEwork for Artem\счастливый билет\obj\Debug\счастливый билет.pdb
+D:\Ilya\warehouse\HOMEwork for Artem\счастливый билет\obj\Debug\счастливый билет.csprojAssemblyReference.cache
